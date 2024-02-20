@@ -264,4 +264,5 @@ Scene Parsing through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, S. Fidler, A. B
         booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
         year={2017}
     }
-    
+
+this is pytorch
